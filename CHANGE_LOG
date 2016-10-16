@@ -1,0 +1,10 @@
+<h2>Version 0.0 - Initial release</h2>
+
+<h4>Earthquake map</h4>
+<ul>
+<li>Extracts data from XML file</li>
+<li>Plots the information into the designed map</li>
+</ul>
+
+
+
