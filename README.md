@@ -4,5 +4,5 @@
 
 <h3> You are required the following modules:<h3>
 <ol>
-<l>Numpy<l>
-<l>Matplotlib<l>
+<li>Numpy<li>
+<li>Matplotlib<li>
