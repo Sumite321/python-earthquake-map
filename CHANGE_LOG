@@ -1,10 +1,12 @@
-<h2>Version 0.0 - Initial release</h2>
+Version 0.1
 
-<h4>Earthquake map</h4>
-<ul>
-<li>Extracts data from XML file</li>
-<li>Plots the information into the designed map</li>
-</ul>
+* show the time (UTC) in the map
+
+Version 0.0 - Initial release
+
+* Extracts data from XML file
+* Plots the information into the designed map
+
 
 
 
