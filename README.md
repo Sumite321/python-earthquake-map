@@ -7,3 +7,8 @@
 <li>Numpy</li>
 <li>Matplotlib</li>
 </ul>
+Information on how to install Numpy :
+https://docs.scipy.org/doc/numpy-1.10.1/user/install.html
+
+Information on how to install Matplotlib :
+http://matplotlib.org/users/installing.html
